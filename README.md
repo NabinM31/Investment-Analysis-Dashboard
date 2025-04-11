@@ -95,3 +95,21 @@ This dashboard provides actionable insights into:
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## ✍️ Author
+
+**Created by:** [NabinM31](https://github.com/NabinM31)  
+💼 *Power BI | SQL | Python Enthusiast*  
+📫 *Let’s connect and collaborate on data-driven projects!*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – you're free to use it with attribution.
+
+---
+
+
